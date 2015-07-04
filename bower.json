@@ -1,0 +1,26 @@
+{
+  "name": "angular-ui-sortable-loader",
+  "version": "0.1.0",
+  "homepage": "https://github.com/crisbeto/angular-ui-sortable-loader",
+  "authors": [
+    "crisbeto"
+  ],
+  "description": "Asynchronously loads jQuery and jQuery UI for use with Angular UI Sortable",
+  "keywords": [
+    "angular",
+    "jquery",
+    "jquery-ui",
+    "sortable",
+    "ui-sortable"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "bower_components"
+  ],
+  "dependencies": {
+    "angular": ">=1.3.0",
+    "angular-ui-sortable": "~0.13.4"
+  },
+  "main": "build/ui-sortable-loader.min.js"
+}

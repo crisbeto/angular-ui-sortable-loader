@@ -8,7 +8,7 @@ Please note that this module is intended to work with `ui.sortable` and it proba
 
 ## Install
 
-Include Angular, [Angular UI Sortable](https://github.com/angular-ui/ui-sortable) and [ui-sortable-loader.min.js](https://raw.githubusercontent.com/crisbeto/angular-svg-round-progressbar/master/build/ui-sortable-loader.min.js) or [ui-sortable-loader.js](https://raw.githubusercontent.com/crisbeto/angular-svg-round-progressbar/master/build/ui-sortable-loader.js) in your page. You can use bower, or a script-tag:
+Include Angular, [Angular UI Sortable](https://github.com/angular-ui/ui-sortable) and [ui-sortable-loader.min.js](https://raw.githubusercontent.com/crisbeto/angular-ui-sortable-loader/master/build/ui-sortable-loader.min.js) or [ui-sortable-loader.js](https://raw.githubusercontent.com/crisbeto/angular-ui-sortable-loader/master/build/ui-sortable-loader.js) in your page. You can use bower, or a script-tag:
 
 `bower install angular-ui-sortable-loader`
 
